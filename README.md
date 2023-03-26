@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi!<br>I am Tomas Torre, a student of Computer's Sciences at FAMAF, Córdoba, Argentina with preference for Back-end programming.<br>I currently study and improve my knowledge of JavaScript, node and React.
+<br>I am Tomas Torre, a student of Computer's Sciences at FAMAF, Córdoba, Argentina with preference for Back-end programming.<br>
+I wanna be a Back-end programmer, thats why i am currently studing and improving my knowledge in JavaScript, node and React.
 
 
 # 💻 Tech Stack:
